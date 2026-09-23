@@ -2,6 +2,7 @@
 An analysis of the demographics as well as the macroeconomic factors of the US fatal police shootings
 
 Technologies: Python (Pandas, Plotly, SciPy, Seaborn), Tableau Public
+
 Summary: An end-to-end data analytics project evaluating 2,500+ fatal law enforcement encounters alongside US Census socioeconomic baselines across all 50 states and over 29,000 municipalities. The analysis establishes three primary findings:
 
 1. Demographic Disparity: In major urban centers (e.g., Houston, Los Angeles, Columbus), Black residents experience fatal encounters at rates 2.5× to 4.0× their proportion of the local municipal population[cite: 1].
